@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Lame::VERSION
   gem.authors       = ["Colin Mitchell"]
   gem.email         = ["muffinista@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{wrapper around lame mp3 encoder}
+  gem.summary       = %q{wrapper around lame mp3 encoder}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
